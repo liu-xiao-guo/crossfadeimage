@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=swipearea
+Exec=swipearea
+Icon=swipearea/swipearea.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

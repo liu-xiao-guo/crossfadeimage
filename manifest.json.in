@@ -1,0 +1,17 @@
+{
+    "name": "swipearea.liu-xiao-guo",
+    "description": "description of swipearea",
+    "architecture": "@CLICK_ARCH@",
+    "title": "swipearea",
+    "hooks": {
+        "swipearea": {
+            "apparmor": "swipearea/swipearea.apparmor",
+            "desktop":  "swipearea/swipearea.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
